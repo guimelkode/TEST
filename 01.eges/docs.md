@@ -8,6 +8,9 @@ taxonomy:
 
 <hr/>
 
+
+### prueba de modificacion usuarios
+
 ![EGeS](../imagenes/eges/eges_logo3.png?lightbox=600&resize=400)
 
  <b>EGeS</b> es una poderosa aplicación que resuelve en forma integral las necesidades específicas de Gestión Inteligente y Monitoreo del Rendimiento de Centros de Diagnóstico sin importar su tamaño.
